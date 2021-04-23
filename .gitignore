@@ -3,3 +3,6 @@
 ################################################################################
 
 /Demo/Demo/obj
+/Demo/Demo/bin/Debug/netcoreapp3.1
+/Demo/.vs/Demo/v16
+/.vs
